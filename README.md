@@ -58,11 +58,9 @@ Telegram-File-to-URL/
 
 ## 📝 Лицензия
 Этот проект лицензирован под [MIT License](LICENSE).
-```
-
----
 
 ### **requirements.txt**
+
 ```markdown
 aiogram==2.25.1
 Flask==2.2.5

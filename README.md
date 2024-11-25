@@ -14,6 +14,9 @@
 ## 🛠️ Установка и настройка
 
 ### 1. Клонирование репозитория
+
+```
+
 ```bash
 git clone https://github.com/suuuuumod/Telegram-File-to-URL.git
 cd Telegram-File-to-URL

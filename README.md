@@ -62,30 +62,6 @@ Telegram-File-to-URL/
 
 ---
 
-### **.gitignore**
-```markdown
-# Операционная система
-.DS_Store
-Thumbs.db
-
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-
-# Virtual environments
-venv/
-.venv/
-
-# IDE
-.idea/
-.vscode/
-```
-
----
-
 ### **requirements.txt**
 ```markdown
 aiogram==2.25.1
